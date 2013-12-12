@@ -27,3 +27,7 @@ value (the corresponding archon file ID) which contain the images.
 
 * A local machine with python installed
 * An archon instance running version 3.20 or above
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/archonproject/archon_export_files/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
